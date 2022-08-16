@@ -1,0 +1,6 @@
+{"error_info": {
+                 "method_name": "configure_mtu_size", "error_code": "0/1", "error_msg1":
+                  "given conditions returing false while configure mtu for given ports", "error_msg2": "given dictionary key is invalid in configure_mtu_size method"
+                 }
+}
+#Not a Valid Choice Try again
