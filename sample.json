@@ -1,0 +1,15 @@
+{"sample_json" : {
+                  "pytool_parameteres": {
+                                        "lek_path":
+                                          "/root/networking.ethernet.acceleration.crystal-spring-canyon.platform/common/", "bitstream": "1"
+                                        },
+                  "MTU": {
+                          "port_type1": "host", "port_type2": "soc", "port_list_host":
+                           {"1": 1000, "2": 3000}, "port_list_soc": {"1": 2000,
+                           "2": 2000}
+                          },
+                  "port_mapping": {
+                                  "host_pf_to_soc_pf": {"1": 1, "2": 2}, "soc_pf_to_host_pf": {"1": 1, "2": 2}
+                                  }
+                  }
+}
